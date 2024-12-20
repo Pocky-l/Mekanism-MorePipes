@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "mekanism:enriched_diamond"
+    },
+    "P": {
+      "item": "mekanism:energy_tablet"
+    },
+    "D": {
+      "item": "mekanism:hdpe_stick"
+    }
+  },
+  "pattern": ["AA ", "AP ", " D "],
+  "result": {
+    "count": 1,
+    "item": "mekaevolution:plasma_sword"
+  }
+}
